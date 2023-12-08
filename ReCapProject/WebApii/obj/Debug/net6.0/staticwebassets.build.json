@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "rEuovie/WSsn2jMeTAcbU8ZsRc1Qiqnlw5s2p5mEaq4=",
+  "Source": "WebApii",
+  "BasePath": "_content/WebApii",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApii\\wwwroot",
+      "Source": "WebApii",
+      "ContentRoot": "C:\\Users\\Nurullah\\source\\repos\\ReCapProject\\WebApii\\wwwroot\\",
+      "BasePath": "_content/WebApii",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nurullah\\source\\repos\\ReCapProject\\WebApii\\wwwroot\\DefaultImage.jpg",
+      "SourceId": "WebApii",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nurullah\\source\\repos\\ReCapProject\\WebApii\\wwwroot\\",
+      "BasePath": "_content/WebApii",
+      "RelativePath": "DefaultImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DefaultImage.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Nurullah\\source\\repos\\ReCapProject\\WebApii\\wwwroot\\Uploads\\Images\\1ac47a13-a365-455a-b7cc-e63daf653659.jpg",
+      "SourceId": "WebApii",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nurullah\\source\\repos\\ReCapProject\\WebApii\\wwwroot\\",
+      "BasePath": "_content/WebApii",
+      "RelativePath": "Uploads/Images/1ac47a13-a365-455a-b7cc-e63daf653659.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\1ac47a13-a365-455a-b7cc-e63daf653659.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Nurullah\\source\\repos\\ReCapProject\\WebApii\\wwwroot\\Uploads\\Images\\e072a4b0-2fc9-47bf-902d-e9323eda7160.jpg",
+      "SourceId": "WebApii",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nurullah\\source\\repos\\ReCapProject\\WebApii\\wwwroot\\",
+      "BasePath": "_content/WebApii",
+      "RelativePath": "Uploads/Images/e072a4b0-2fc9-47bf-902d-e9323eda7160.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\e072a4b0-2fc9-47bf-902d-e9323eda7160.jpg"
+    }
+  ]
+}

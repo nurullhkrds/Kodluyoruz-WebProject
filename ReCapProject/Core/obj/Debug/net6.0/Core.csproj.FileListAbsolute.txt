@@ -1,0 +1,12 @@
+C:\Users\Nurullah\source\repos\ReCapProject\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Nurullah\source\repos\ReCapProject\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Nurullah\source\repos\ReCapProject\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Nurullah\source\repos\ReCapProject\Core\obj\Debug\net6.0\ref\Core.dll
